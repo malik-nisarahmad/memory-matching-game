@@ -23,13 +23,12 @@ A high-performance memory card matching game featuring:
 ---
 ## 🖼️ Media Gallery
 
-### Game Screens
+### Game Screenshots
 <div align="center">
-  <img src="/assets/screenshots/main_menu.png" width="30%" alt="Main Menu">
-  <img src="/assets/screenshots/ModeSelection.png" width="30%" alt="Gameplay"> 
-  <img src="/assets/screenshots/card.png" width="30%" alt="Victory Screen">
+  <img src="assets/screenshots/main_menu.png" width="30%" alt="Main Menu">
+  <img src="assets/screenshots/ModeSelection.png" width="30%" alt="Mode Selection"> 
+  <img src="assets/screenshots/card.png" width="30%" alt="Card Matching">
 </div>
-
 ---
 
 ## ✨ Key Features
