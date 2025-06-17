@@ -1,17 +1,16 @@
 # Memory Match Pro - SFML Card Game
 
 ![GitHub release](https://img.shields.io/github/v/release/malik-nisarahmad/memory-matching-game)
-![SFML](https://img.shields.io/badge/SFML-2.5.1+-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![SFML](https://img.shields.io/badge/SFML-2.6.1+-brightgreen)
+
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
 - [Media GAllery](#️-media-gallery)
 - [Key Features](#-key-features)
 - [Game Controls](#-game-controls)
-- [Contributors](#-contributors)
-- [License](#-license)
+
+
 
 ---
 
