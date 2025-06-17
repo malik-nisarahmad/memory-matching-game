@@ -3,13 +3,12 @@
 ![GitHub release](https://img.shields.io/github/v/release/malik-nisarahmad/memory-matching-game)
 ![SFML](https://img.shields.io/badge/SFML-2.5.1+-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
-- [Installation](#-installation)
-- [Gameplay Guide](#-gameplay-guide)
-- [Technical Specifications](#-technical-specifications)
+- [Game Controls](#-game-controls)
 - [Contributors](#-contributors)
 - [License](#-license)
 
@@ -17,10 +16,11 @@
 
 ## 🏆 Project Overview
 A high-performance memory card matching game featuring:
-- **Cross-platform** compatibility (Windows/Linux/macOS)
 - **Three distinct game modes** with progressive difficulty
 - **Neon-themed visual effects** with smooth animations
 - **Persistent score tracking** via file serialization
+
+![Gameplay Screenshot](/assets/screenshot.png)
 
 ---
 
@@ -41,12 +41,26 @@ A high-performance memory card matching game featuring:
 
 ---
 
-## 📥 Installation
+## 🎮 Game Controls
 
-### Prerequisites
-```bash
-# Ubuntu/Debian
-sudo apt install libsfml-dev cmake g++
+### Main Controls
+| Action | Key/Mouse |
+|--------|-----------|
+| Select Card | Left Click |
+| Pause Game | P |
+| Return to Menu | ESC |
+| Confirm Selection | Enter |
+| Toggle Fullscreen | F11 |
+---
 
-# macOS (Homebrew)
-brew install sfml cmake
+
+
+### Architecture Overview
+```mermaid
+graph TD
+    A[Main Menu] --> B[Game Manager]
+    B --> C[GameBoard]
+    B --> D[PlayerSystem]
+    C --> E[Card Logic]
+    D --> F[AI Controller]
+    B --> G[Audio Manager]
