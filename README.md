@@ -25,9 +25,9 @@ A high-performance memory card matching game featuring:
 
 ### Game Screenshots
 <div align="center">
-  <img src="assets/screenshots/main_menu.png" width="30%" alt="Main Menu">
-  <img src="assets/screenshots/ModeSelection.png" width="30%" alt="Mode Selection"> 
-  <img src="assets/screenshots/card.png" width="30%" alt="Card Matching">
+  <img src="./assets/screenshorts/main_menu.png" width="30%" alt="Main Menu">
+  <img src="./assets/screenshorts/ModeSelection.png" width="30%" alt="Mode Selection"> 
+  <img src="./assets/screenshorts/card.png" width="30%" alt="Card Matching">
 </div>
 ---
 
