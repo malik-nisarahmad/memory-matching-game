@@ -7,6 +7,7 @@
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
+- [Media GAllery](#️-media-gallery)
 - [Key Features](#-key-features)
 - [Game Controls](#-game-controls)
 - [Contributors](#-contributors)
@@ -19,8 +20,15 @@ A high-performance memory card matching game featuring:
 - **Three distinct game modes** with progressive difficulty
 - **Neon-themed visual effects** with smooth animations
 - **Persistent score tracking** via file serialization
+---
+## 🖼️ Media Gallery
 
-![Gameplay Screenshot](/assets/screenshot.png)
+### Game Screens
+<div align="center">
+  <img src="/assets/screenshots/main_menu.png" width="30%" alt="Main Menu">
+  <img src="/assets/screenshots/ModeSelection.png" width="30%" alt="Gameplay"> 
+  <img src="/assets/screenshots/card.png" width="30%" alt="Victory Screen">
+</div>
 
 ---
 
