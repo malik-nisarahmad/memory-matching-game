@@ -58,9 +58,12 @@ A high-performance memory card matching game featuring:
 ### Architecture Overview
 ```mermaid
 graph TD
-    A[Main Menu] --> B[Game Manager]
+    A[Source.cpp] --> B[GameManager]
     B --> C[GameBoard]
-    B --> D[PlayerSystem]
-    C --> E[Card Logic]
-    D --> F[AI Controller]
-    B --> G[Audio Manager]
+    B --> D[Player/AI System]
+    C --> E[Card]
+    D --> F[Player]
+    D --> G[AI]
+    B --> H[SFML Rendering]
+    B --> I[Audio System]
+    B --> J[FileHandler]
