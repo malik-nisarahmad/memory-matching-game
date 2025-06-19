@@ -53,19 +53,6 @@ Challenge the AI at your skill level:
 
 ---
 
-## 📸 **Screenshots**
-
-Dive into the neon glow of **Memory Matching Championship**! Check out these electrifying visuals:
-
-| Main Menu 🌌 | Gameplay ⚡ | AI Battle 🤖 |
-| --- | --- | --- |
-|  |  |  |
-| Neon-lit menu with glowing buttons. | Flipping cards with particle effects. | Outsmarting the AI in intense matches. |
-
-*Note*: Replace placeholder images in the `screenshots/` folder with your own captures for maximum dazzle! ✨
-
----
-
 ## 🚀 **Get Matching!**
 
 ### Requirements
